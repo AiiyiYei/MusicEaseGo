@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-
+因为访问github实在是太慢了，上传不了代码，以后在gitee更新：[https://gitee.com/aiiyiyei](https://gitee.com/AiiyiYei/MusicEaseGo)
 
 ## 项目简介
 这是一款**轻量无负担**的本地音乐上云工具——无需复杂配置、无需安装依赖，仅需PHP环境，浏览器打开即可使用。自动识别本地MP3文件，同步匹配歌词，轻松将你的本地音乐收藏同步至云端，实现“随身随行”的音乐访问。
