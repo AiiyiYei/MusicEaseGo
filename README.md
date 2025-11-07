@@ -1,7 +1,7 @@
 # 轻音随行（EaseMusicGo）
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-（可选：后续项目有Star后可加Star徽章）
+
 
 
 ## 项目简介
